@@ -2,7 +2,7 @@
 
 This is the frontend repository for the YouTube Shorts project. YouTube Shorts is a video-sharing platform where users can create and watch short, engaging videos.
 
-## [Link](#https://65d995d561370cbbb587c7e8--timely-sawine-ba6ec9.netlify.app/)
+## [Link](https://65d995d561370cbbb587c7e8--timely-sawine-ba6ec9.netlify.app/)
 
 ## Getting Started
 
